@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @a13xk13m
 - 👀 I’m interested in Web Design, Data Science, and Machine Learning
-- 🌱 I’m currently learning React, Docker, and Flask
+- 🌱 I’m currently learning React, Docker, Flask, Firebase, and Flutter
 - 📫 How to reach me a13k13m@gmail.com
